@@ -1,0 +1,8 @@
+flask
+scikit-learn
+pandas
+numpy
+matplotlib
+
+#install these requirements by command 
+# pip install -r (fullpath of requirements.txt)
