@@ -3,6 +3,7 @@ scikit-learn
 pandas
 numpy
 matplotlib
+gunicorn
 
 #install these requirements by command 
 # pip install -r (fullpath of requirements.txt)
